@@ -1,2 +1,0 @@
-# yara-rules
-malware
